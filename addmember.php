@@ -71,12 +71,6 @@
 
         </form>
 
-        <footer>
-            <p id="footertext">
-                 <a id="whitelink">Faiz Syed Ibrahim 103146075</a> / <a id="whitelink">Aishwarya Kaggdas 103170236</a> / <a id="whitelink">Shifat Bin Rahman 103528424</a> 
-                 <br/>
-                 <a id="whitelink">Vishnuwardhan Gopal 103174555</a> / <a id="whitelink">Kai Ikeda 103492189</a>
-            </p>
-        </footer>
+
     </body> 
 </html>
