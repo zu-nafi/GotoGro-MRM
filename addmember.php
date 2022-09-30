@@ -4,11 +4,7 @@
         <meta charset="UTF-8"/>
         <meta name="description" content="Managing Software Projects"/>
         <meta name="keywords" content="HTML, CSS, Grocery, MRM, Project"/>
-        <meta name="author" content="Faiz Syed Ibrahim 103146075"/>
-        <meta name="author" content="Aishwarya Kaggdas 103170236"/>
-        <meta name="author" content="Shifat Bin Rahman 103528424"/>
-        <meta name="author" content="Vishnuwardhan Gopal 103174555"/>
-        <meta name="author" content="Kai Ikeda 103492189"/>
+
 
         <link href= "style.css" rel="stylesheet" />
         <link rel="preconnect" href="https://fonts.gstatic.com">
