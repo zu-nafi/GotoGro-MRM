@@ -4,9 +4,6 @@
         <meta charset="UTF-8"/>
         <meta name="description" content="Managing Software Projects"/>
         <meta name="keywords" content="HTML, CSS, Grocery, MRM, Project"/>
-        <meta name="author" content=""/>
-
-
         <link href= "style.css" rel="stylesheet" />
         <link rel="preconnect" href="https://fonts.gstatic.com">
         <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300&family=Source+Sans+Pro:wght@300&display=swap" rel="stylesheet">
@@ -49,12 +46,5 @@
             <img src="grocerystore.jpeg" id="groceryimage" />
         </div>
 
-		<footer>
-            <p id="footertext">
-			     <a id="whitelink">Faiz Syed Ibrahim 103146075</a> / <a id="whitelink">Aishwarya Kaggdas 103170236</a> / <a id="whitelink">Shifat Bin Rahman 103528424</a> 
-                 <br/>
-                 <a id="whitelink">Vishnuwardhan Gopal 103174555</a> / <a id="whitelink">Kai Ikeda 103492189</a>
-            </p>
-        </footer>
     </body> 
 </html>
