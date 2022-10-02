@@ -9,19 +9,12 @@ if(isset($_GET["sale"]) && $_GET["sale"] == "success"){
 <html lang="en">
 <head>
     <meta charset="UTF-8"/>
-    <meta name="description" content="Managing Software Projects"/>
-    <meta name="keywords" content="HTML, CSS, Grocery, MRM, Project"/>
-    <meta name="author" content="Faiz Syed Ibrahim 103146075"/>
-    <meta name="author" content="Aishwarya Kaggdas 103170236"/>
-    <meta name="author" content="Shifat Bin Rahman 103528424"/>
-    <meta name="author" content="Vishnuwardhan Gopal 103174555"/>
-    <meta name="author" content="Kai Ikeda 103492189"/>
 
     <link href= "style.css" rel="stylesheet" />
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300&family=Source+Sans+Pro:wght@300&display=swap" rel="stylesheet">
 
-    <title>Goto Gro MRM</title>
+        <title>GotoGro-MRM</title>
 </head>
 
 
@@ -29,7 +22,7 @@ if(isset($_GET["sale"]) && $_GET["sale"] == "success"){
 <div id="header">
     <div id="titleboxone"></div>
     <div id="titleboxtwo">
-        <h1 id="titleheading">Goto Grocery</h1>
+                    <h1 id="titleheading">GotoGro-MRM</h1>
     </div>
 </div>
 
@@ -86,13 +79,7 @@ if(isset($_GET["sale"]) && $_GET["sale"] == "success"){
 
 </form>
 
-<footer>
-    <p id="footertext">
-        <a id="whitelink">Faiz Syed Ibrahim 103146075</a> / <a id="whitelink">Aishwarya Kaggdas 103170236</a> / <a id="whitelink">Shifat Bin Rahman 103528424</a>
-        <br/>
-        <a id="whitelink">Vishnuwardhan Gopal 103174555</a> / <a id="whitelink">Kai Ikeda 103492189</a>
-    </p>
-</footer>
+
 </body>
 </html>
 
