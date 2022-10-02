@@ -4,9 +4,9 @@ class Database {
 
     function __construct(){
         $dbServername = "localhost";
-        $dbUsername = ""; // username
-        $dbPassword = ""; // password
-        $dbName = ""; // database name
+        $dbUsername = "root";
+        $dbPassword = "";
+        $dbName = "assignment";
         $this->db = new PDO("mysql:host=$dbServername;dbname=$dbName", $dbUsername, $dbPassword);
     }
 
