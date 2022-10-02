@@ -2,22 +2,19 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8"/>
-        <meta name="description" content="Managing Software Projects"/>
-        <meta name="keywords" content="HTML, CSS, Grocery, MRM, Project"/>
-
 
         <link href= "style.css" rel="stylesheet" />
         <link rel="preconnect" href="https://fonts.gstatic.com">
         <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300&family=Source+Sans+Pro:wght@300&display=swap" rel="stylesheet">
 
-        <title>Goto Gro MRM</title>
+        <title>GotoGro-MRM</title>
     </head>
 
     <body>  
         <div id="header">
             <div id="titleboxone"></div>
                 <div id="titleboxtwo">
-                    <h1 id="titleheading">Goto Grocery</h1>
+                    <h1 id="titleheading">GotoGro-MRM</h1>
                 </div>
             </div>
 
@@ -33,7 +30,7 @@
 
         <h2>Add Member Form</h2>
         
-        <form action="" method="POST">
+        <form action="includes/member.php" method="POST">
         <fieldset>
             <legend class="legendtext"> Personal Details &nbsp</legend>
             <p><label for="First_Name">First Name</label>
@@ -72,5 +69,10 @@
         </form>
 
 
+        <?php
+        if(isset($_GET["member"]) && $_GET["member"] == "success"){
+            echo "<script>alert('Member added')</script>";
+        }
+        ?>
     </body> 
 </html>
