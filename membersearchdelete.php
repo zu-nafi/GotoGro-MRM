@@ -1,4 +1,4 @@
-// Member search and delete
+// Member search
 
 <!DOCTYPE html>
 <html lang="en">
