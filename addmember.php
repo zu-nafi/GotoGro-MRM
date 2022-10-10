@@ -1,4 +1,4 @@
-//seems ok,  no error found,  validated properly.103538067
+//seems ok
 <!DOCTYPE html>
 <html lang="en">
     <head>
