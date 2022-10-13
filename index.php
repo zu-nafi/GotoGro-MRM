@@ -1,4 +1,4 @@
-//homepage
+//index page
 
 <!DOCTYPE html>
 <html lang="en">
