@@ -1,4 +1,4 @@
-// Sales search and delete
+// Sales search
 
 <?php
 include_once 'includes/Database.php';
