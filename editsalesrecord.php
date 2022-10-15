@@ -1,3 +1,4 @@
+//
 <?php
 include_once "includes/Database.php";
 $db = new Database();
