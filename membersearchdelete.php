@@ -1,4 +1,4 @@
-// Member search
+// Member search and edit member details
 
 <!DOCTYPE html>
 <html lang="en">
